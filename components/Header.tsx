@@ -9,7 +9,7 @@ const Header = ({ children, className }: HeaderProps) => {
         <Image
           src="/assets/icons/flowPages.svg"
           alt="flowPages"
-          width={120}
+          width={32}
           height={32}
           className="hidden md:block"
         />
